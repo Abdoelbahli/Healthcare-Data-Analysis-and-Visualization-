@@ -1,0 +1,28 @@
+Table Name,Column Name,Description
+encounters,REASONDESCRIPTION,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+encounters,START,Object type should be Converted to datetime
+encounters,STOP,Object type should be Converted to datetime
+patients,BIRTHDATE,should be converted to datetime format
+patients,DEATHDATE,should be converted to datetime format.
+patients,SUFFIX,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+patients,MAIDEN,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+patients,GENDER,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+patients,LAT,Object type should be Converted to float
+patients,LON,Object type should be Converted to float
+patients,ZIP,Object type should be Converted to float
+patients,BIRTHDATE,should be converted to datetime format.
+payers,ADDRESS,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+payers,CITY,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+payers,STATE_HEADQUARTERED,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+payers,PHONE,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+payers,ZIP,NaN values should be replaced with 0
+procedures,REASONCODE,Object type should be Converted to float
+procedures,CODE,Should be Converted to integer
+procedures,BASE_COST,Should be Converted to integer
+procedures,START,Object type should be Converted to datetime
+procedures,STOP,Object type should be Converted to datetime
+procedures,REASONDESCRIPTION,"NaN values should be replaced with ""VALUE NOT PROVIDED"""
+procedures,CODE,NaN values should be replaced with 0
+procedures,BASE_COST,NaN values should be replaced with 0
+procedures,REASONCODE,NaN values should be replaced with 0
+encounters,TOTAL_CLAIM_COST,Object type should be Converted to float
