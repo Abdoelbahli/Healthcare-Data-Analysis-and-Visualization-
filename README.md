@@ -45,6 +45,13 @@ Text file used for logging anomalies:
 
 ## Installation
 
+### Requirements
+
+- Python 3.x
+- Required Python packages (specified in `requirements.txt`)
+- Jupyter Notebook
+- Power BI Desktop
+- Streamlit
 
 
 
