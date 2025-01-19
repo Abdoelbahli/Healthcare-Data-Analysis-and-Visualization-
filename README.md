@@ -38,6 +38,14 @@ Streamlit app for interactive data exploration:
 - **Patient Report Generation:** Generates a summary report for selected patients including personal details, encounter summaries, and procedure statistics.
 
 
+### 5. `log.txt`
+
+Text file used for logging anomalies:
+- Stores details about data processing issues encountered, including table names, column names, and descriptions of anomalies.
+
+## Installation
+
+
 
 
 
