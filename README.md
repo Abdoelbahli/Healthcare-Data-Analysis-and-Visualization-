@@ -53,7 +53,13 @@ Text file used for logging anomalies:
 - Power BI Desktop
 - Streamlit
 
+### Setup Instructions
 
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run `data_processing.py` to preprocess your data.
+3. Use `project.ipynb` for exploratory data analysis.
+4. Import processed data into Power BI for visualization.
+5. Run `app.py` with Streamlit to interactively explore patient data.
 
 
 
