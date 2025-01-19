@@ -22,8 +22,23 @@ Jupyter notebook used for:
 - Exploratory Data Analysis (EDA) to understand data distributions and relationships.
 - Iterative development and testing of data processing logic.
 
+
 ### 3. Power BI Visualization `Dashboard`
 
 Power BI used for creating interactive visualizations:
 - **Key Performance Indicators (KPIs):** Metrics such as Average Cost per Visit, Average Length of Stay, etc., derived from processed data.
 - **Dashboard Creation:** Visual representations of patient demographics, encounter statistics, and procedure trends.
+
+
+### 4. `app.py`
+
+Streamlit app for interactive data exploration:
+- **Patient Information Page:** Displays filtered patient information including encounters and procedures.
+- **Visualizations:** Generates charts and graphs based on selected patient data for dynamic exploration.
+- **Patient Report Generation:** Generates a summary report for selected patients including personal details, encounter summaries, and procedure statistics.
+
+
+
+
+
+
