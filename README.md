@@ -21,3 +21,9 @@ Jupyter notebook used for:
 - Calling functions from `data_processing.py` to preprocess data.
 - Exploratory Data Analysis (EDA) to understand data distributions and relationships.
 - Iterative development and testing of data processing logic.
+
+### 3. Power BI Visualization `Dashboard`
+
+Power BI used for creating interactive visualizations:
+- **Key Performance Indicators (KPIs):** Metrics such as Average Cost per Visit, Average Length of Stay, etc., derived from processed data.
+- **Dashboard Creation:** Visual representations of patient demographics, encounter statistics, and procedure trends.
