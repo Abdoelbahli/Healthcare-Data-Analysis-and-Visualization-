@@ -13,3 +13,11 @@ This Python script handles the core data processing tasks:
 - **Data Insights:** Provides functions to display data types, null values, and basic information about the DataFrame.
 - **Data Cleaning:** Functions for converting data types, handling missing values, and preprocessing columns.
 - **Logging Anomalies:** Logs issues encountered during data processing to a text file (`log.txt`).
+
+
+### 2. `project.ipynb`
+
+Jupyter notebook used for:
+- Calling functions from `data_processing.py` to preprocess data.
+- Exploratory Data Analysis (EDA) to understand data distributions and relationships.
+- Iterative development and testing of data processing logic.
