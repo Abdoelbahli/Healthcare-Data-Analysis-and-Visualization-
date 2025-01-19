@@ -61,5 +61,17 @@ Text file used for logging anomalies:
 4. Import processed data into Power BI for visualization.
 5. Run `app.py` with Streamlit to interactively explore patient data.
 
+## Usage
+
+- **Data Processing:** Modify `data_processing.py` functions to suit specific data cleaning and preprocessing requirements.
+- **Exploratory Analysis:** Use `project.ipynb` to delve into data insights and refine preprocessing steps.
+- **Visualization:** Create insightful dashboards and reports in Power BI based on processed data.
+- **Interactive Exploration:** Use `app.py` to dynamically explore patient information and generate reports on-demand.
+
+
+
+## Authors
+
+- Abdellah EL BAHLI
 
 
